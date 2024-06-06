@@ -1,4 +1,4 @@
-![Python Logo](http://morganlinton.com/wp-content/uploads/2015/04/python-programming.png)
+![Python Logo]([http://morganlinton.com/wp-content/uploads/2015/04/python-programming.png](https://www.python.org/))
 
 # Trilha Python | Opensanca Developer
 
