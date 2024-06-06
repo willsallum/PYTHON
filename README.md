@@ -1,4 +1,4 @@
-![Python Logo](https://www.python.org/static/img/python-logo@2x.png)
+![(Python Logo)](https://www.python.org/static/img/python-logo@2x.png)
 
 # Trilha Python | Opensanca Developer
 
