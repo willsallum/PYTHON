@@ -1,4 +1,4 @@
-* VÍDEOS-AULAS PYTHON
+* VÍDEOS-AULAS PYTHON 
 
 ** [Aula 1: A importâmcia e Aplicações do Python]
 (https://pages.hashtagtreinamentos.com/minicurso-python-automacao-obrigado?blog=1n4033rer&video=3dep762tr)
